@@ -1,7 +1,7 @@
 [
     {
         "from": "GREEN",
-        "to": ["user"],
+        "to": ["Cornwell", "Kamaroff", "Kurtz", "Palmer", "Schell", "McMurtry"],
         "title": "Assistance Required",
         "body": "Your assistance is required. Leave immediately and meet at site 13. Arrangements will be made to cover your work duties. Addiontal supplies are not required. Timing is critical."
     }
