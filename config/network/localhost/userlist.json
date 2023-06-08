@@ -1,25 +1,34 @@
 [
     {
-        "userId": "8A73B5",
+        "userId": "Cornwell",
         "password": "trustno1",
-        "userName": "Mulder, Fox"
+        "userName": "Cornwell"
     },
 
     {
-        "userId": "a",
-        "password": "a",
-        "userName": "Mulder, Fox"
+        "userId": "Kamaroff",
+        "password": "trustno1",
+        "userName": "Kamaroff"
     },
 
     {
-        "userId": "admin",
-        "password": "admin",
-        "userName": "root"
+        "userId": "Kurtz",
+        "password": "trustno1",
+        "userName": "Kurtz"
     },
-
     {
-        "userId": "n",
-        "password": "n",
-        "userName": "debug"
+        "userId": "Palmer",
+        "password": "trustno1",
+        "userName": "Palmer"
+    },
+     {
+        "userId": "Schell",
+        "password": "trustno1",
+        "userName": "Schell"
+    },
+    {
+        "userId": "McMurtry",
+        "password": "trustno1",
+        "userName": "McMurtry"
     }
 ]
