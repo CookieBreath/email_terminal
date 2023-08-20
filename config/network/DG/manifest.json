@@ -1,11 +1,11 @@
 {
-    "year": "1995",
+    "year": "2020",
     "serverAddress": "localhost",
-    "serverName": "Personal Computer",
-    "iconName": "None",
-    "terminalID": "CARUN PC",
+    "serverName": "Communication Terminal",
+    "iconName": "dgpt.png",
+    "terminalID": "∆G",
     "defaultUser": {
-        "userId": "CARUN",
+        "userId": "user",
         "password": "",
         "userName": "anonymous"
     },

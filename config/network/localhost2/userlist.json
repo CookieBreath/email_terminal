@@ -1,0 +1,34 @@
+[
+    {
+        "userId": "Cornwell",
+        "password": "trustno1",
+        "userName": "Cornwell"
+    },
+
+    {
+        "userId": "Kamaroff",
+        "password": "trustno1",
+        "userName": "Kamaroff"
+    },
+
+    {
+        "userId": "Kurtz",
+        "password": "trustno1",
+        "userName": "Kurtz"
+    },
+    {
+        "userId": "Palmer",
+        "password": "trustno1",
+        "userName": "Palmer"
+    },
+     {
+        "userId": "Schell",
+        "password": "trustno1",
+        "userName": "Schell"
+    },
+    {
+        "userId": "McMurtry",
+        "password": "trustno1",
+        "userName": "McMurtry"
+    }
+]
