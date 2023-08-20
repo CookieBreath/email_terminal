@@ -2,7 +2,7 @@
     "year": "1995",
     "serverAddress": "localhost2",
     "serverName": "Personal Computer",
-    "iconName": "None",
+    "iconName": "Moon-icon.png",
     "terminalID": "CARUN PC",
     "defaultUser": {
         "userId": "CARUN",
